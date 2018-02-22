@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">AdFeeder</string>
+    <string name="name_hint">Name</string>
+    <string name="how_relevant">On a scale from 0 to 10, how relevant are you finding this advertisement?</string>
+    <string name="feeling">How do you feel about the content of this app?</string>
+    <string name="privacy_intrusion">It's a privacy intrusion</string>
+    <string name="love">Love it!</string>
+    <string name="annoyed">Annoyed</string>
+    <string name="pleasant">Pleasantly surprised</string>
+    <string name="fml">FML</string>
+    <string name="srsly">Are you even serious?</string>
+    <string name="looks">Do you at least like how it looks?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="idk">IDK</string>
+    <string name="sod_off">Sod off</string>
+    <string name="would_you_use">Would you consider using the service or product advertised?</string>
+    <string name="maybe">Maybe</string>
+    <string name="too_late">Already a user</string>
+    <string name="check">Check it!</string>
+    <string name="thanks">Thank you!</string>
+    <string name="one_yes">at least you seem to like how it looks. </string>
+
+    <string name="srsly">Are you even serious?</string>
+    <string name="fml">FML</string>
+    <string name="srsly">Are you even serious?</string>
+    <string name="fml">FML</string>
+    <string name="srsly">Are you even serious?</string>
+
+</resources>
