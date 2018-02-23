@@ -3,7 +3,7 @@
     <string name="name_hint">Name</string>
     <string name="how_relevant">On a scale from 0 to 10, how relevant are you finding this advertisement?</string>
     <string name="feeling">How do you feel about the content of this app?</string>
-    <string name="privacy_intrusion">It's a privacy intrusion</string>
+    <string name="privacy_intrusion">It\\'s a privacy intrusion</string>
     <string name="love">Love it!</string>
     <string name="annoyed">Annoyed</string>
     <string name="pleasant">Pleasantly surprised</string>
@@ -21,10 +21,6 @@
     <string name="thanks">Thank you!</string>
     <string name="one_yes">at least you seem to like how it looks. </string>
 
-    <string name="srsly">Are you even serious?</string>
-    <string name="fml">FML</string>
-    <string name="srsly">Are you even serious?</string>
-    <string name="fml">FML</string>
-    <string name="srsly">Are you even serious?</string>
+
 
 </resources>
